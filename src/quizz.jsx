@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { dataQuizz } from "./quizz";
+import { dataQuizz } from "./quiz";
 import { useEffect } from "react";
 
 export function Quizz(props) {
